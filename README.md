@@ -72,16 +72,6 @@
   </a>
 </div>
 
----
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyshaRreeha&theme=black-ice&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayshareeha&theme=black-ice&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
 
 ---
@@ -90,3 +80,6 @@
 </p>
 
 🔥 *Keep coding, keep learning, and stay awesome!* 🚀
+
+
+
