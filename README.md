@@ -12,8 +12,8 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="background-color: #000; padding: 10px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayshareeha&show_icons=true&theme=dark&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayshareeha&layout=compact&langs_count=6&theme=dark" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyshaReeha&show_icons=true&theme=dark&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyshaReeha&layout=compact&langs_count=6&theme=dark" height="150" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshareeha&theme=dark" height="150" alt="GitHub Streak" />
 </div>
 
@@ -74,11 +74,13 @@
 
 ---
 
-## 🖥️ Contribution Activity
-
 ## 📊 GitHub Contributions
+
 <p align="center">
-  <img src="https://github.com/AyshaReeha/AyshaReeha/blob/output/github-contribution-grid.svg" alt="GitHub Contribution Grid" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyshaRreeha&theme=black-ice&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ayshareeha&theme=black-ice&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 
