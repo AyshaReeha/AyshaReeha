@@ -76,13 +76,15 @@
 
 ## 🖥️ Contribution Activity
 
+## 📊 GitHub Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/AyshaReeha/AyshaReeha/blob/output/github-contribution-grid.svg" alt="GitHub Contribution Grid" />
 </p>
+
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayshareeha&label=Profile%20views&color=0e75b6&style=flat" alt="ayshareeha" />
+  <img src="https://komarev.com/ghpvc/?username=AyshaReeha&label=Profile%20views&color=0e75b6&style=flat" alt="ayshareeha" />
 </p>
 
 🔥 *Keep coding, keep learning, and stay awesome!* 🚀
