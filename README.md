@@ -14,7 +14,7 @@
 <div align="center" style="background-color: #000; padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=AyshaReeha&show_icons=true&theme=dark&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyshaReeha&layout=compact&langs_count=6&theme=dark" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayshareeha&theme=dark" height="150" alt="GitHub Streak" />
+  
 </div>
 
 ---
