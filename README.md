@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m learning **Flutter, Firebase, and UI/UX Design**.
+- 🌱 I’m learning **MERN stack development and UI/UX Design**.
 - 💬 Ask me about **Web Development, App Development, and Designing**.
 - ⚡ Fun fact: *I love solving problems and creating intuitive designs!*
 
